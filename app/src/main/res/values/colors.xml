@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--**********  copyright Jason Bamford 2019 ** please visit http://jasonbamford.uk/  ***********-->
+<resources>
+    <color name="colorPrimary">#002244</color>
+    <color name="colorPrimaryDark">#001122</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorScale">#807C7C7C</color>
+</resources>
