@@ -22,4 +22,4 @@ and run locally using Android Studio and a suitable Android device.
 ## Further Information
 
 If you would like to know more about my work or to contact me,
-please visit my website at <http://jasonbamford.uk/>
+please visit my website at <http://www.bamfordresearch.com>
